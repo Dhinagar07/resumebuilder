@@ -34,7 +34,7 @@ const HtmlToPdfEditor = () => {
     container.style.fontFamily = 'Arial';
 
     const opt = {
-      margin: 0.5,
+      margin: 0,
       filename: 'output.pdf',
       image: { type: 'jpeg', quality: 0.98 },
       html2canvas: { scale: 2 },
@@ -54,6 +54,7 @@ const HtmlToPdfEditor = () => {
         height: '100vh',
         backgroundColor: '#333',
         color: '#fff',
+        marginTop: '70px',
       }}
     >
       {/* Left: Editor */}
@@ -138,7 +139,7 @@ const HtmlToPdfEditor = () => {
               style={{
                 width: '100%',
                 height: '100%',
-                border: '1px solid #444',
+                border: '1px',
                 borderRadius: '4px',
                 flexGrow: 1,
               }}
