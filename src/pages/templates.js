@@ -369,8 +369,8 @@ export const templates = [
     <div class="section-title">Education</div>
     <table class="edu-table">
       <tr>
-        <td><strong>College of Engineering Guindy,Chennai</strong><br>B.E. in Computer Science and Engineering</td>
-        <td>Oct 2022–May 2026<br>CGPA: 7.63)</td>
+        <td><strong>College of Engineering Guindy,Chennai</strong><br>B.E-Computer Science and Engineering</td>
+        <td>Oct 2022–May 2026<br>CGPA: 7.63</td>
       </tr>
       <tr>
         <td><strong>Vidyaa Vikas International School,Gandarvakottai</strong><br>Higher Secondary Education (CBSE)</td>
