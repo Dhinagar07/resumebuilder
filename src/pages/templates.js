@@ -370,7 +370,7 @@ export const templates = [
     <table class="edu-table">
       <tr>
         <td><strong>College of Engineering Guindy,Chennai</strong><br>B.E. in Computer Science and Engineering</td>
-        <td>Oct 2022–May 2026<br>CGPA: 7.63 (Till 5th semester)</td>
+        <td>Oct 2022–May 2026<br>CGPA: 7.63</td>
       </tr>
       <tr>
         <td><strong>Vidyaa Vikas International School,Gandarvakottai</strong><br>Higher Secondary Education (CBSE)</td>
@@ -453,12 +453,12 @@ export const templates = [
     <div class="section-title">Skills</div>
     <ul>
       <li><strong>Technical:</strong> C/C++, Java, Python, React.js, Express.js, PostgreSQL</li>
-      <li><strong>Soft Skills:</strong> Teamwork, Self-Learning, Adaptability</li>
+      <li><strong>Soft Skills:</strong> Teamwork ,Time management, Adaptability</li>
     </ul>
   </div>
   <div class="section">
     <div class="section-title">Co-curricular Activites</div>
-    <p>Football, Reading books , NSS volunteer</p>
+    <p>Football , NSS volunteer</p>
   </div>
 
 </body>
