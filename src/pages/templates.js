@@ -453,7 +453,7 @@ export const templates = [
     <div class="section-title">Skills</div>
     <ul>
       <li><strong>Technical:</strong> C/C++, Java, Python, React.js, Express.js, PostgreSQL</li>
-      <li><strong>Soft Skills:</strong> Teamwork, Self-Learning, Adaptability</li>
+      <li><strong>Soft Skills:</strong> Teamwork, Time management, Adaptability</li>
     </ul>
   </div>
   <div class="section">
