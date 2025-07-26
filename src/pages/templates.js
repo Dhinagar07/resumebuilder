@@ -360,7 +360,7 @@ export const templates = [
   <div class="section">
     <div class="section-title">Personal Objective</div>
     <p>
-      A Final-year Computer Science and Engineering student interested in applying my knowledge to real-world challenges. I seek an environment that fosters learning and allows me to contribute to the growth of the organization and myself.
+      A Final-year Computer Science student with a keen interest in applying foundational knowledge to real-world challenges. I seek an environment that fosters learning and allows me to contribute to the growth of the organization and myself
     </p>
   </div> 
 
@@ -369,8 +369,8 @@ export const templates = [
     <div class="section-title">Education</div>
     <table class="edu-table">
       <tr>
-        <td><strong>College of Engineering Guindy,Chennai</strong><br>B.E - Computer Science and Engineering</td>
-        <td>Oct 2022–May 2026<br>CGPA: 7.63</td>
+        <td><strong>College of Engineering Guindy,Chennai</strong><br>B.E. in Computer Science and Engineering</td>
+        <td>Oct 2022–May 2026<br>CGPA: 7.63)</td>
       </tr>
       <tr>
         <td><strong>Vidyaa Vikas International School,Gandarvakottai</strong><br>Higher Secondary Education (CBSE)</td>
@@ -387,8 +387,8 @@ export const templates = [
         <td>
           <div class="item-title">Voice-Based Email System</div>
           <ul>
-            <li>Helps visually impaired people to compose and manage emails through voice assistance using TTS (Text To Speech) and STT (Speech To Text).</li>
-            <li>It includes email summarization using BART model for faster understanding.</li>
+            <li>Helps visually impaired users compose and manage emails through voice assistance using TTS (Text To Speech) and STT (Speech To Text).</li>
+            <li>Includes email summarization using BART for efficient understanding.</li>
             <li><strong>Tech Stack:</strong> React, Python (Flask, PyWebview)</li>
         
           </ul>
@@ -399,8 +399,8 @@ export const templates = [
         <td>
           <div class="item-title">Logistics ERP</div>
           <ul>
-            <li>Track event based stock requirements, availability, and handles returned stock.</li>
-            <li>Ensures smooth distribution across all CTF domains without time delay.</li>
+            <li>Manages event stock requests, tracks availability, and handles returns.</li>
+            <li>Ensures smooth distribution across all CEG Tech Forum domains.</li>
             <li><strong>Tech Stack:</strong> Next.js, PostgreSQL</li>
         
           </ul>
@@ -411,7 +411,7 @@ export const templates = [
         <td>
           <div class="item-title">Ordering and Inventory Management System</div>
           <ul>
-            <li>E-commerce web application that manage inventories and reduces queue by streamlining the process from ordering to billing.</li>
+            <li>E-commerce web app that manages inventories and reduces queues by streamlining the process from order collection to billing.</li>
             <li><strong>Tech Stack:</strong> React, Express.js, PostgreSQL</li>
        
           </ul>
@@ -453,12 +453,12 @@ export const templates = [
     <div class="section-title">Skills</div>
     <ul>
       <li><strong>Technical:</strong> C/C++, Java, Python, React.js, Express.js, PostgreSQL</li>
-      <li><strong>Soft Skills:</strong> Teamwork ,Time management, Adaptability</li>
+      <li><strong>Soft Skills:</strong> Teamwork, Self-Learning, Adaptability</li>
     </ul>
   </div>
   <div class="section">
     <div class="section-title">Co-curricular Activites</div>
-    <p>Football , NSS volunteer</p>
+    <p>Football, NSS volunteer</p>
   </div>
 
 </body>
